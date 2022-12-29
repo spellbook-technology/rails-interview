@@ -1,3 +1,5 @@
+![Cover Image](cover.png)
+
 # Spellbook Rails Test
 
 Hey :wave: Welcome to Spellbook's Rails Test - v1. The goal of this exercise is to determine your level of understanding of Ruby on Rails at a basic level. This test is intended for junior and mid-level developers with optional bonus objectives for the more adept.
